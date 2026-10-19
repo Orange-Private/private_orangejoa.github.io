@@ -3,5 +3,5 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/orangejoa.github.io/',
+  base: '/private_orangejoa.github.io/',
 })
