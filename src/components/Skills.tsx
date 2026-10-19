@@ -1,11 +1,11 @@
 const SKILLS = [
   {
     category: 'Frontend',
-    items: ['React', 'TypeScript', 'JavaScript', 'HTML/CSS', 'Vite'],
+    items: ['React', 'Vue.js', 'TypeScript', 'JavaScript', 'HTML/CSS', 'Vite'],
   },
   {
     category: 'Backend',
-    items: ['Java', 'Spring Boot', 'REST API'],
+    items: ['Java', 'Spring Boot', 'Struts', 'REST API'],
   },
   {
     category: 'Tools',
